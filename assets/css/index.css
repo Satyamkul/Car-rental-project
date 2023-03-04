@@ -5246,12 +5246,11 @@ h6 {
     width: 100%;
   }
   .wheel-footer a img {
-    width: 55px;
     height: 55px;
   }
   .wheel-start-form2 label.promo button {
     width: 28%;
-    margin-left: 2%;
+    margin-left: 35%;
     float: left;
   }
   .wheel-start2 .wheel-header {
