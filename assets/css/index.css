@@ -4,6 +4,25 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Arizonia);
 @import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css);
+body {
+  margin: 0;
+  padding: 0;
+  user-select: none;
+}
+/* Scroll-bar css */
+html {
+  overflow-x: hidden;
+}
+html::-webkit-scrollbar {
+  width: 1.3rem;
+}
+html::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.888);
+}
+html::-webkit-scrollbar-thumb {
+  background: #f75f01;
+}
+/* scroll bar css end */
 *,
 .wheel-top-menu-log button,
 a,
