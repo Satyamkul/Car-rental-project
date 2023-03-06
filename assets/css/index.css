@@ -1863,7 +1863,7 @@ h6 {
   margin-bottom: 10px;
 }
 .wheel-start2 .wheel-header h5 {
-  font-size: 28px;
+  font-size: 20px;
   font-weight: 700;
   line-height: 49px;
   color: #fff;
@@ -5571,7 +5571,7 @@ h6 {
     padding: 5px 10px;
   }
   .wheel-start .wheel-header h1 {
-    font-size: 35px;
+    font-size: 25px;
   }
   .wheel-header h3,
   .wheel-start .wheel-header h2,
@@ -5691,9 +5691,6 @@ h6 {
   }
   .wheel-collection-info2 {
     padding: 0 30px;
-  }
-  .btn1{
-    float: left;
   }
 }
 @media only screen and (max-width: 600px) {
@@ -6729,7 +6726,7 @@ h6 {
   font-family: monospace;
   font-weight: bolder;
   font-size: 2.7rem;
-  width: 19vh;
+  width: 200px;
   color: #FAFAFA;
   text-transform: uppercase;
   padding: 10px 20px;
