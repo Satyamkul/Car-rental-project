@@ -52,6 +52,7 @@ span {
 .wheel-footer-logo img,
 .wheel-logo img {
   max-height: 60px;
+  position: relative;
 }
 .car-item-wrap,
 .overflow-html,
@@ -6742,4 +6743,12 @@ h6 {
 .btn1:active {
   box-shadow: none;
   transform: translate(4px, 5px);
+}
+.logo{
+  position: absolute;
+  left: 140px;
+  top:40px;
+  font-size:1.8rem;
+  font-weight: 900;
+  text-transform: uppercase;
 }
