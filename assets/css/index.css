@@ -939,13 +939,13 @@ h6 {
   padding-right: 5px;
   font-size: 14px;
 }
-.wheel-start-form .wheel-date label:after {
+/* .wheel-start-form .wheel-date label:after {
   position: absolute;
   content: "\f0d7";
   font-size: 14px;
   display: inline-block;
   right: 7px;
-}
+} */
 .wheel-deals:after,
 .wheel-service-logo:after,
 .wheel-testimonial-item:before {
