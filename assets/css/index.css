@@ -796,7 +796,7 @@ h6 {
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(24, 46, 110, 0.8);
+  background-color: rgb(10 10 10 / 74%);
 }
 .wheel-start .wheel-header {
   position: relative;
@@ -6727,11 +6727,11 @@ h6 {
   font-weight: bolder;
   font-size: 2.7rem;
   width: 200px;
-  color: #FAFAFA;
+  color: #fafafa;
   text-transform: uppercase;
   padding: 10px 20px;
   border-radius: 10px;
-  border: 2px solid #FAFAFA;
+  border: 2px solid #fafafa;
   background: #fd6f03;
   box-shadow: 6px 4px #fafafa;
   cursor: pointer;
@@ -6743,11 +6743,11 @@ h6 {
   box-shadow: none;
   transform: translate(4px, 5px);
 }
-.logo{
+.logo {
   position: absolute;
   left: 140px;
-  top:40px;
-  font-size:1.8rem;
+  top: 40px;
+  font-size: 1.8rem;
   font-weight: 900;
   text-transform: uppercase;
 }
